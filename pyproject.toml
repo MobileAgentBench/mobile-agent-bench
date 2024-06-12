@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mobile_agent_benchmark"
+version = "0.0.1"
+authors = [
+  { name="Luyuan Wang", email="mail@luyuan.wang" },
+]
+description = "An automated benchmark framework for mobile agents"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "numpy",
+    "opencv-python",
+    "androidviewclient==23.3.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"mobile_agent_benchmark.configs" = ["*.json"]
+"mobile_agent_benchmark.assets" = ["*.jpg", "*.png"]

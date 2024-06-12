@@ -1,0 +1,304 @@
+{
+    "tasks": [
+        {
+            "name": "filemanager_sort_folder_by_size_desc"
+        },
+        {
+            "name": "filemanager_rename_file"
+        },
+        {
+            "name": "filemanager_check_file_properties"
+        },
+        {
+            "name": "filemanager_check_storage"
+        },
+        {
+            "name": "filemanager_create_new_file"
+        },
+        {
+            "name": "filemanager_delete_file"
+        },
+        {
+            "name": "filemanager_hide_folder"
+        },
+        {
+            "name": "filemanager_search_file"
+        },
+        {
+            "name": "filemanager_delete_videos"
+        },
+        {
+            "name": "filemanager_delete_txt"
+        },
+        {
+            "name": "calculator_add"
+        },
+        {
+            "name": "calculator_cube"
+        },
+        {
+            "name": "calculator_divide"
+        },
+        {
+            "name": "calculator_convert_length"
+        },
+        {
+            "name": "calculator_minus"
+        },
+        {
+            "name": "calculator_mixed"
+        },
+        {
+            "name": "calculator_point"
+        },
+        {
+            "name": "calculator_multiply"
+        },
+        {
+            "name": "calculator_recalculate"
+        },
+        {
+            "name": "calculator_square"
+        },
+        {
+            "name": "calendar_create_and_search"
+        },
+        {
+            "name": "calendar_daily_view"
+        },
+        {
+            "name": "calendar_delete_tasks"
+        },
+        {
+            "name": "calendar_laundry"
+        },
+        {
+            "name": "calendar_new_task"
+        },
+        {
+            "name": "calendar_next_month"
+        },
+        {
+            "name": "calendar_open_about"
+        },
+        {
+            "name": "calendar_search"
+        },
+        {
+            "name": "calendar_snooze_time"
+        },
+        {
+            "name": "calendar_start_week"
+        },
+        {
+            "name": "contacts_about"
+        },
+        {
+            "name": "contacts_create"
+        },
+        {
+            "name": "contacts_delete"
+        },
+        {
+            "name": "contacts_favorite"
+        },
+        {
+            "name": "contacts_filter"
+        },
+        {
+            "name": "contacts_hide_email"
+        },
+        {
+            "name": "contacts_modify"
+        },
+        {
+            "name": "contacts_remove_dialog"
+        },
+        {
+            "name": "contacts_search"
+        },
+        {
+            "name": "contacts_sort"
+        },
+        {
+            "name": "gallery_filter_by_images_and_videos"
+        },
+        {
+            "name": "gallery_group_by_file_type"
+        },
+        {
+            "name": "gallery_list_view_type"
+        },
+        {
+            "name": "gallery_play_videos_automatically"
+        },
+        {
+            "name": "gallery_remember_playback_position"
+        },
+        {
+            "name": "gallery_set_favorite"
+        },
+        {
+            "name": "gallery_set_wallpaper"
+        },
+        {
+            "name": "gallery_show_hidden_items"
+        },
+        {
+            "name": "gallery_sort_by_size_asc"
+        },
+        {
+            "name": "gallery_use_24_hour_time_format"
+        },
+        {
+            "name": "messager_add_block_numbers"
+        },
+        {
+            "name": "messager_change_font_size"
+        },
+        {
+            "name": "messager_check_message_properties"
+        },
+        {
+            "name": "messager_create_conversation_and_check_message_properties"
+        },
+        {
+            "name": "messager_create_conversation_and_search"
+        },
+        {
+            "name": "messager_make_conversation_archived"
+        },
+        {
+            "name": "messager_search_contacts"
+        },
+        {
+            "name": "messager_search_message"
+        },
+        {
+            "name": "messager_show_archived_messages"
+        },
+        {
+            "name": "messager_start_a_conversation"
+        },
+        {
+            "name": "music_player_open_faq"
+        },
+        {
+            "name": "music_player_album_sort_by_year"
+        },
+        {
+            "name": "music_player_config_equalizer"
+        },
+        {
+            "name": "music_player_create_playlist_and_search"
+        },
+        {
+            "name": "music_player_create_playlist_and_sort_desc"
+        },
+        {
+            "name": "music_player_create_playlist"
+        },
+        {
+            "name": "music_player_open_settings"
+        },
+        {
+            "name": "music_player_playlist_sort_desc"
+        },
+        {
+            "name": "music_player_rescan_media"
+        },
+        {
+            "name": "music_player_search_playlist"
+        },
+        {
+            "name": "note_add"
+        },
+        {
+            "name": "note_delete"
+        },
+        {
+            "name": "note_item_checked"
+        },
+        {
+            "name": "note_lock"
+        },
+        {
+            "name": "note_new_checklist_items"
+        },
+        {
+            "name": "note_new_checklist"
+        },
+        {
+            "name": "note_open_about"
+        },
+        {
+            "name": "note_open"
+        },
+        {
+            "name": "note_rename"
+        },
+        {
+            "name": "note_search"
+        },
+        {
+            "name": "recorder_delete_all"
+        },
+        {
+            "name": "recorder_delete"
+        },
+        {
+            "name": "recorder_recycle_bin"
+        },
+        {
+            "name": "recorder_rename"
+        },
+        {
+            "name": "recorder_theme"
+        },
+        {
+            "name": "recorder_bit_rate"
+        },
+        {
+            "name": "recorder_empty_trash"
+        },
+        {
+            "name": "recorder_recycle_settings"
+        },
+        {
+            "name": "recorder_extension"
+        },
+        {
+            "name": "recorder_rename_all"
+        },
+        {
+            "name": "launcher_add_apps"
+        },
+        {
+            "name": "launcher_check_contributor"
+        },
+        {
+            "name": "launcher_hide_app_name"
+        },
+        {
+            "name": "launcher_open_about_FAQ"
+        },
+        {
+            "name": "launcher_remove_app"
+        },
+        {
+            "name": "launcher_rename_app"
+        },
+        {
+            "name": "launcher_search_app"
+        },
+        {
+            "name": "launcher_setting_close_app_when_launching"
+        },
+        {
+            "name": "launcher_sort_by_custom"
+        },
+        {
+            "name": "launcher_sort_by_title_desc"
+        }
+    ]
+}

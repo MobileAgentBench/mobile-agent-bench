@@ -1,0 +1,9 @@
+__pycache__
+dist/
+logs/
+log/
+.vscode/
+.idea
+build/
+mobile_agent_benchmark.egg-info/
+.DS_Store

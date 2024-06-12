@@ -1,0 +1,46 @@
+name: android
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.3.11
+  - libcxx=14.0.6
+  - libffi=3.4.4
+  - ncurses=6.4
+  - openssl=3.0.13
+  - pip=23.3.1
+  - python=3.9.19
+  - readline=8.2
+  - setuptools=68.2.2
+  - sqlite=3.41.2
+  - tk=8.6.12
+  - tzdata=2024a
+  - wheel=0.41.2
+  - xz=5.4.6
+  - zlib=1.2.13
+  - pip:
+    - androidviewclient==23.3.0
+    - build==1.2.1
+    - certifi==2024.2.2
+    - charset-normalizer==3.3.2
+    - contourpy==1.2.1
+    - culebratester-client==2.0.70
+    - cycler==0.12.1
+    - fonttools==4.51.0
+    - idna==3.7
+    - importlib-metadata==7.1.0
+    - importlib-resources==6.4.0
+    - kiwisolver==1.4.5
+    - matplotlib==3.8.4
+    - numpy==1.26.4
+    - opencv-python==4.9.0.80
+    - packaging==24.0
+    - pillow==10.3.0
+    - pyparsing==3.1.2
+    - pyproject-hooks==1.0.0
+    - python-dateutil==2.9.0.post0
+    - requests==2.31.0
+    - six==1.16.0
+    - tomli==2.0.1
+    - urllib3==2.2.1
+    - zipp==3.18.1
+prefix: /opt/homebrew/anaconda3/envs/android
