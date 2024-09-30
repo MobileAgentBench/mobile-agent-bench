@@ -1,7 +1,7 @@
 # start emulator 
-# /Users/wangluyuan/Library/Android/sdk/emulator/emulator @Pixel_3a_API_34_extension_level_7_arm64-v8a
+# /Users/user/Library/Android/sdk/emulator/emulator @Pixel_3a_API_34_extension_level_7_arm64-v8a
 # start adb:
-# /Users/wangluyuan/Library/Android/sdk/platform-tools/adb -e shell
+# /Users/user/Library/Android/sdk/platform-tools/adb -e shell
 # download apks
 # https://github.com/SimpleMobileTools
 # download free music (no copyright issue)
@@ -11,7 +11,7 @@
 import time
 from mobile_agent_benchmark.task_orchestrator import TaskOrchestrator
 
-orchestrator = TaskOrchestrator(log_dir='/Users/luyuanWang/Documents/research/benchmark/mobile_agent_benchmark/logs')
+orchestrator = TaskOrchestrator(log_dir='/Users/user/Documents/research/benchmark/mobile_agent_benchmark/logs')
 
 
 def dummy_agent(prompt):

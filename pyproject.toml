@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "mobile_agent_benchmark"
 version = "0.0.1"
 authors = [
-  { name="Luyuan Wang", email="mail@luyuan.wang" },
+  { name="Author", email="mail@example.com" },
 ]
 description = "An automated benchmark framework for mobile agents"
 readme = "README.md"
